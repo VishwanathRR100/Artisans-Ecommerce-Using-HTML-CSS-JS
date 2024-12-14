@@ -1,2 +1,7 @@
-# Artisans-Ecommerce-Using-HTML-CSS-JS
- Website Using HTML , CSS and JS , It is a E-commerce Website where artisans can see their products without third party and their maximum profit and customer can buy .
+# Jewellerywebsite
+Jewelry E-commerce Website for selling Jewelry online.
+In this website you can navigate the other pages throught #All Pages in menu.
+
+This template contains UserAccount page as well.
+
+
